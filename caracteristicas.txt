@@ -1,0 +1,4 @@
+Tener un feature para compras
+Tener un feature para deseos
+Tener un feature para login
+Va a tener solamente tres pantallas: una con los items que se pueden comprar, otra con los artículos que se van a comprar, otra con la lista de deseos.
